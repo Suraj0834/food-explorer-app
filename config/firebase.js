@@ -5,7 +5,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 
 // Your Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDqQ9C3ACsPxHZDcByTs0iXotE-FNd0g7I",
+  apiKey: "",
   authDomain: "food-explorer-app-9fb6a.firebaseapp.com",
   projectId: "food-explorer-app-9fb6a",
   storageBucket: "food-explorer-app-9fb6a.firebasestorage.app",
